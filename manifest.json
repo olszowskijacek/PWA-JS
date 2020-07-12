@@ -1,0 +1,9 @@
+{
+    "name": "cdv-podyplomowe-pwa-1207",
+    "short_name": "cdv-1207",
+    "lang": "en-US",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+    }
